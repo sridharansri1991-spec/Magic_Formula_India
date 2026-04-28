@@ -1,0 +1,2 @@
+# System packages for Streamlit Cloud
+# (Installed via apt-get before pip install)
