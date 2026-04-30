@@ -1,7 +1,7 @@
-streamlit==1.31.1
-requests==2.31.0
-beautifulsoup4==4.12.3
-lxml==5.1.0
-pandas==2.2.0
-numpy==1.26.3
-plotly==5.18.0
+streamlit>=1.32
+requests>=2.31
+beautifulsoup4>=4.12
+lxml>=5.1
+pandas>=2.2
+numpy>=1.26
+plotly>=5.18
